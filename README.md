@@ -8,7 +8,8 @@ This project consists of solving the applied exercises from the book "Introducti
 - Visualization: Each dataset is visualized using appropriate graphical techniques to help understand the data and make informed decisions during the analysis.
 - Model Evaluation: Performance metrics and validation techniques are used to assess the quality of the models built during the analysis.
 - Jupyter Notebooks: Each exercise is documented and solved in Jupyter Notebooks, allowing for an interactive approach to exploring the datasets.
-Prerequisites
+
+## Prerequisites
 
 Before you begin, ensure you have the following installed:
 
